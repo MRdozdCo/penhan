@@ -7682,7 +7682,7 @@ external-controller-cors:
     - "*"
   allow-private-network: true
 external-ui: ui
-external-ui-url: "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip"
+external-ui-url: "https://github.com/MRdozdCo/ui/blob/main/metacubexd-gh-pages.zip"
 
 profile:
   store-selected: true
